@@ -1,17 +1,17 @@
 /* ChatBOT FIIS — landpage estática */
 :root {
-  --bg: #f6f4f0;
-  --bg-alt: #ebe6de;
+  --bg: #f3f7ff;
+  --bg-alt: #e7efff;
   --surface: #ffffff;
-  --ink: #1a1f2e;
-  --ink-muted: #4a5568;
-  --accent: #0d4f4f;
-  --accent-light: #156b6b;
-  --accent-soft: rgba(13, 79, 79, 0.08);
-  --border: rgba(26, 31, 46, 0.12);
+  --ink: #16213a;
+  --ink-muted: #4c5d7a;
+  --accent: #1f5fff;
+  --accent-light: #184dcc;
+  --accent-soft: rgba(31, 95, 255, 0.12);
+  --border: rgba(22, 33, 58, 0.14);
   --radius: 12px;
   --radius-lg: 20px;
-  --shadow: 0 18px 50px rgba(26, 31, 46, 0.08);
+  --shadow: 0 18px 50px rgba(22, 33, 58, 0.1);
   --font-sans: "DM Sans", system-ui, sans-serif;
   --font-display: "Fraunces", Georgia, serif;
   --max: 1100px;
